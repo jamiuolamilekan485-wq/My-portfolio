@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import Home from "./Pages/home";
-import Projects from "./Pages/Projects";
-import ProjectDetails from "./Pages/projectsDetails";
-import About from "./Pages/About";
-import Contact from "./Pages/contact";
+import Home from "./pages/home";
+import Projects from "./pages/Projects";
+import ProjectDetails from "./pages/projectsDetails";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
 import MainLayout from "./layouts/MainLayout";
 
 
